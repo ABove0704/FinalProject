@@ -1,0 +1,82 @@
+body {
+	background-color: lightslategray;
+	font-size: 12px;
+	padding: 5vw;
+	border-radius: 20px;
+	text-align: center;
+
+}
+
+.box {
+	background-color: black;
+	text-align: center;
+	font-size: 30px;
+	width: 150px;
+	length: 100px;
+	border-radius: 50px;
+}
+
+
+div img {
+	height: 40vw;
+	width:  20vw;
+	text-align: center;
+}
+
+h1 {
+	font-size: 20px;
+	color: black;
+	text-align: center;
+}
+
+p {
+ font-size: 30px;
+ color: black;
+ font-style: oblique;
+ padding: 10vw;
+ border-radius: 20px;
+ text-align: center;
+}
+
+footer {
+	background-color: lightslategray;
+	font-size: 12px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	justify-content: space-around;
+	text-align: center;
+}
+
+footer:hover{
+	font-size: 20px;
+	background-color: lightskyblue;
+	display: flex;
+	color: gray;
+	padding: 0vw;
+	border-radius: 20px;
+	align-items: center;
+	justify-content: center;
+	justify-content: space-around;
+}
+
+footer button {
+	padding: 1vw;
+	display: flex;
+	background-color: lightskyblue;
+	border-radius: 50px;
+	margin: 4vw;
+	align-items: center;
+	justify-content: center;
+	justify-content: space-around;
+}
+
+button:hover {
+	display: flex;
+	background-color: greenyellow;
+	font-size: 30px;
+	align-items: center;
+	justify-content: center;
+	justify-content: space-around;
+}
+
